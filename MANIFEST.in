@@ -1,5 +1,3 @@
-recursive-include docs *
-include *.py
-include tox.ini
-include CHANGES
-include LICENSE
+version https://git-lfs.github.com/spec/v1
+oid sha256:90f3009c8f673199a306866ccf5cfa6fdbc166f52165d13150a1da6982bc7dc5
+size 86
